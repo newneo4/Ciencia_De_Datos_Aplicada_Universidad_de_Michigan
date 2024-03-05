@@ -20,10 +20,10 @@ Este curso debe ser tomado antes de cualquiera de los otros cursos de Ciencia de
 
 ## Semanas del Curso
 
-- **[Semana 1:](Semana 1/)** Manipulaciones Fundamentales de Datos con Python
-- **[Semana 2:](Semana 2/)** Procesamiento Básico de Datos con Pandas
-- **[Semana 3:](Semana 3/)** Procesamiento Adicional de Datos con Pandas
-- **[Semana 4:](Semana 4/)** Respondiendo Preguntas con Datos Desordenados
+- **[Semana 1:](https://github.com/newneo4/Ciencia_De_Datos_Aplicada_Universidad_de_Michigan/tree/main/Semana%201)** Manipulaciones Fundamentales de Datos con Python
+- **[Semana 2:](https://github.com/newneo4/Ciencia_De_Datos_Aplicada_Universidad_de_Michigan/tree/main/Semana%202)** Procesamiento Básico de Datos con Pandas
+- **[Semana 3:](https://github.com/newneo4/Ciencia_De_Datos_Aplicada_Universidad_de_Michigan/tree/main/Semana%203)** Procesamiento Adicional de Datos con Pandas
+- **[Semana 4:](https://github.com/newneo4/Ciencia_De_Datos_Aplicada_Universidad_de_Michigan/tree/main/Semana%204)** Respondiendo Preguntas con Datos Desordenados
 
 ¡Esperamos que disfrutes aprendiendo y explorando el mundo de la ciencia de datos con Python! 
 
