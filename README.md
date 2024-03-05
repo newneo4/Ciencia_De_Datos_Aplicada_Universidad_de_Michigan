@@ -20,10 +20,10 @@ Este curso debe ser tomado antes de cualquiera de los otros cursos de Ciencia de
 
 ## Semanas del Curso
 
-- **[Semana 1:](Semana_1/)** Manipulaciones Fundamentales de Datos con Python
-- **[Semana 2:](Semana_2/)** Procesamiento Básico de Datos con Pandas
-- **[Semana 3:](Semana_3/)** Procesamiento Adicional de Datos con Pandas
-- **[Semana 4:](Semana_4/)** Respondiendo Preguntas con Datos Desordenados
+- **[Semana 1:](Semana 1/)** Manipulaciones Fundamentales de Datos con Python
+- **[Semana 2:](Semana 2/)** Procesamiento Básico de Datos con Pandas
+- **[Semana 3:](Semana 3/)** Procesamiento Adicional de Datos con Pandas
+- **[Semana 4:](Semana 4/)** Respondiendo Preguntas con Datos Desordenados
 
 ¡Esperamos que disfrutes aprendiendo y explorando el mundo de la ciencia de datos con Python! 
 
